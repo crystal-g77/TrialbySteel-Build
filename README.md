@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Icon.png" width="200" style="margin: 0 auto;"/>
+  <img src="Images/Icon.png" width="120" style="margin: 0 auto;"/>
 </p>
 
 # Trial by Steel
