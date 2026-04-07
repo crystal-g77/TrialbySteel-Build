@@ -14,7 +14,8 @@ This is just the builds. The code is private.
 <p align="center">
   <img src="Images/Settings.png" height="300" style="margin: 0 auto;"/>
 </p>
-<p align="center">
+<p align="center">  
+  <img src="Images/HighScores.png" height="300" style="margin: 0 auto;"/>
 </p>
 <p align="center">
   <img src="Images/GameOver.png" height="300" style="margin: 0 auto;"/>
