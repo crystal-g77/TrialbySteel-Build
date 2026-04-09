@@ -8,36 +8,9 @@ Trial of Steel is a single-player boss-rush that delivers deep, expressive comba
 This is just the builds. The code is private.
 
 ## Screenshots
-<p align="center">
-  <img src="Images/MainMenu.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/Settings.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">  
-  <img src="Images/HighScores.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/GameOver.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/Terra.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/TerraAOE.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/KwangMaxCombo.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/Rampage.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/RampageHitEffect.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/Gideon.png" height="300" style="margin: 0 auto;"/>
-</p>
-<p align="center">
-  <img src="Images/GideonProjectile.png" height="300" style="margin: 0 auto;"/>
-</p>
+<img src="Images/MainMenu.png" width="400" /><img src="Images/Settings.png" width="400" />
+<img src="Images/HighScores.png" width="400" /><img src="Images/GameOver.png" width="400" />
+<img src="Images/Terra.png" width="400"/><img src="Images/TerraAOE.png" width="400"/>
+<img src="Images/KwangMaxCombo.png" width="400"/><img src="Images/Rampage.png" width="400"/>
+<img src="Images/RampageHitEffect.png" width="400"/><img src="Images/Gideon.png" width="400"/>
+<img src="Images/GideonProjectile.png" width="400"/>
